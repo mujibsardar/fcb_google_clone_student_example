@@ -1,6 +1,6 @@
 # fcb_google_clone_student_example
 
-HTML / CSS exercise to clone the google search home page
+HTML / CSS exercise to clone the google search home page. Completed by one of my students.
 
 Other Helpful Links:
 
